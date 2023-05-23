@@ -2,3 +2,4 @@ This is the first line of code of my project
 This is the second line of code 
 This line should be in Version 3
 Version 5
+this was added to the copy of the new project 
